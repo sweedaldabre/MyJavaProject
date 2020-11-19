@@ -7,7 +7,8 @@ public class ClientApp {
 		Person p = new Person("Sweedal",101,90.00);
 		System.out.println(p);
 		
-		
+		Person p1 = new Person("Linet",102,89.00);
+		System.out.println(p1);
 	}
 	
 	
