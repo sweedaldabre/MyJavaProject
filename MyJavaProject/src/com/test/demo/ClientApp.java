@@ -1,5 +1,4 @@
 package com.test.demo;
-import com.test.demo.Person;
 
 public class ClientApp {
 
